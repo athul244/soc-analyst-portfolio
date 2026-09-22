@@ -19,6 +19,7 @@ This repo documents hands-on detection and incident-investigation work from a se
 ## Writeups
 
 | # | Title | Technique | MITRE ID |
+|---|-------|-----------|----------|
 | 01 | 	SSH Brute Force Detection | Brute Force | T1110 |
 
 *(More writeups added as the lab expands — malware execution, file integrity monitoring, log anomaly detection, etc.)*
