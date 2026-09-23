@@ -21,6 +21,7 @@ This repo documents hands-on detection and incident-investigation work from a se
 | # | Title | Technique | MITRE ID |
 |---|-------|-----------|----------|
 | 01 | [SSH Brute Force Detection](writeups/01-ssh-bruteforce.md) | Brute Force | T1110 |
+| 02 | [RootCheck "Trojaned File" alert](writeups/02-rootcheck-anomaly.md) | Routine Checkup by manager | null | 
 
 *(More writeups added as the lab expands — malware execution, file integrity monitoring, log anomaly detection, etc.)*
 
